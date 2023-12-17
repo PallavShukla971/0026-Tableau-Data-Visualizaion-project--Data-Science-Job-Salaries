@@ -1,7 +1,7 @@
 # 0026-Tableau-Data-Visualizaion-project--Data-Science-Job-Salaries
 
 
-Hey Everyone please feel free to use this visualization, for sheets please message me on LinkedIn, will be able to provide the source code as well.
+Hey Everyone please feel free to use this visualization, for sheet please message me on LinkedIn will be able to provide the source code as well
 
 https://public.tableau.com/app/profile/pallav.shukla
 
@@ -9,4 +9,4 @@ please check the dashboard from the above link
 
 The exact particular one is listed below:
 
--> 
+-> https://public.tableau.com/views/Hotel_Sales_Last_Vegas_TripAdvisory/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
