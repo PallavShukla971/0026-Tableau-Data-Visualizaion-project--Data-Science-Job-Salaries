@@ -3,6 +3,8 @@
 
 Hey Everyone please feel free to use this visualization, for sheet please message me on LinkedIn will be able to provide the source code as well
 
+Please check the above dashboard image rest for viz check it on teablue profile 
+
 https://public.tableau.com/app/profile/pallav.shukla
 
 please check the dashboard from the above link
