@@ -9,4 +9,4 @@ please check the dashboard from the above link
 
 The exact particular one is listed below:
 
--> https://public.tableau.com/views/Hotel_Sales_Last_Vegas_TripAdvisory/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+-> https://public.tableau.com/views/Book1_17028212652970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
